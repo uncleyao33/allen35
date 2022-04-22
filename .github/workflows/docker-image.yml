@@ -11,5 +11,5 @@ jobs:
         with:
           # 下方的name格式为：Docker Hub ID/自定义镜像名称
           name: Docker Hub allen35/apple
-          username: '${{ secrets.DOCKER_allen35 }}'
+          username: '${{ secrets.DOCKER_uncleyao33@gmail.com }}'
           password: '${{ secrets.DOCKER_Ibmibm520 }}'
